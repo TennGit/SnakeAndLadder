@@ -1,1 +1,1 @@
-This is only test deployment
+This is only testing deployment
